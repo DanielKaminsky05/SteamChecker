@@ -1,4 +1,4 @@
-# Steam User Search Backend API
+# SteamChecker Search Backend API
 
 A Node.js Express API that provides Steam user data retrieval, game library comparison, and AI-powered game recommendations using the Steam Web API and Google's Gemini AI.
 
